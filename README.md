@@ -7,9 +7,13 @@ AutoRUs' new prototype 'MechaCar' is suffering from production issues and the ma
   
 # Linear Regression to Predict MPG
 ![deliverable1code](https://user-images.githubusercontent.com/82848585/129486496-6252a838-2858-4ff4-b69c-82043d9be6d3.png)
+
 ![linearregMPG](https://user-images.githubusercontent.com/82848585/129486632-09484058-af37-4958-8b6e-ad5ee6b86162.png)
+
   -Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset? For our linear regression results the intercept, vehicle length and ground clearance provided a non-random amount of variance to the mpg values. The intercept being significant (0.001) shows us that there are other factors that weren't available in our data set that could contribute to the mpg aside from just the vehicle length and ground clearance.
+  
   -Is the slope of the linear model considered to be zero? Why or why not? No, because the vehicle length and ground clearance (independant variables) have a statistically significant relationship to the mpg (dependant variable).
+  
   -Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?  Somewhat effectively. The r-squared value is 0.71 meaning that around 71% of all our mpg predictions with be correct, while the p-value of our linear regression model is 5.35e-11, much smaller than our required significance level of 0.05. This gives us enough evidence to reject our null hypothesis. 
 
 
