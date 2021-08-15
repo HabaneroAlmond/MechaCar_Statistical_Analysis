@@ -1,1 +1,1 @@
-# MechaCar_Statistical_Analysis
+# Analyzing production data of AutosRUs 'MechaCar'
