@@ -40,4 +40,9 @@ The results of our t-test analysis showed that the p-value average across all lo
 
 # Study Design: MechaCar vs Competition.
 
-
+  Finally, we wanted to create a statistical study to compare the MechaCar performance to the performance of other leading car manufacturers. It would be prudent in the current industry to work towards improving the fuel efficiency of the MechaCar. Aside from the variables we were given in this data set we will need some additional variables, such as the cards performance in differing weather conditions, fuel efficiency of the vehicle based on other factors such as the load the vehicle is bearing, distance of travel, types of fuel used, and oil levels in the car. We will also need market data from competing car manufacturers to compare our statistics to. 
+  We need to make sure our data is kept to a standard of metrics, our data will be numerical, selected randomly, and large enough to be statistically impactful.
+  We will have two hypothesis for our study
+    Null: no significantly statistical difference between MechaCar and competing car brands MPG
+    Alternative: MechaCar's MPG is greater than the competitors MPG data
+The easiest way for us to compare AutoRUs' dataset with a competing car brand is with a t-test. If the p-value we receive from our t-tests is less than .05 then we will reject our Null hypothesis and conclude that AutoRUs needs to do more work on making their new prototype more fuel efficient. 
