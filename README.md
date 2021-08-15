@@ -17,5 +17,10 @@ AutoRUs' new prototype 'MechaCar' is suffering from production issues and the ma
 
 
 # T-Tests on Suspension Coils
+![deliverable3code](https://user-images.githubusercontent.com/82848585/129486811-43c88c56-777d-40d6-b2b3-a50850739971.png)
+![ttest](https://user-images.githubusercontent.com/82848585/129486865-1f16a47f-a7fd-4a5f-9890-ab7b2e7b57b4.png)
+![ttests1-3](https://user-images.githubusercontent.com/82848585/129486973-2f279439-72e4-4262-94e6-f23a5380398e.png)
+
+
 
 # Study Design: MechaCar vs Competition.
