@@ -18,13 +18,20 @@ AutoRUs' new prototype 'MechaCar' is suffering from production issues and the ma
 
 
 # Summary Statistics on Suspension Coils
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not? 
+
 ![deliverable2code](https://user-images.githubusercontent.com/82848585/129486754-6049f771-9d62-47a4-8b6f-5b25008846e7.png)
 ![PSI](https://user-images.githubusercontent.com/82848585/129486756-43daadcf-c85d-4a89-9664-0c4213ded1e1.png)
 ![manufacturinglotPSI](https://user-images.githubusercontent.com/82848585/129486759-986afffd-33a5-4a63-900f-a8049a4e9724.png)
 
-The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+With our results we found that the lots when grouped meet the design specifications with a PSI variance of 76. Only lots 1 and 2 meet the design specs with a PSI variance of 1 and 10, lot 3 has a PSI variance of 220 which does not meet the AutoRUs' design specs.
 
 # T-Tests on Suspension Coils
+For our analysis we perfomed t tests to find out if our manufacturing and individual lots were different from the population mean of 1500 PSI. 
+  -Null Hypothesis: There is no significant difference between the average PSi of the manufacturing/individual lots and the population mean of 1500 PSI
+  -Alternate Hypothesis: There is a significant difference between the average PSI of the lots and the popualtion mean.
+The results of our t-test analysis showed that the p-value average across all lots is about .6 which is outside our significance level of .05. Since the p-value is more than our significance valye we do not reject the null hypothesis. 
+
 ![deliverable3code](https://user-images.githubusercontent.com/82848585/129486811-43c88c56-777d-40d6-b2b3-a50850739971.png)
 ![ttest](https://user-images.githubusercontent.com/82848585/129486865-1f16a47f-a7fd-4a5f-9890-ab7b2e7b57b4.png)
 ![ttests1-3](https://user-images.githubusercontent.com/82848585/129486973-2f279439-72e4-4262-94e6-f23a5380398e.png)
@@ -32,3 +39,5 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 
 # Study Design: MechaCar vs Competition.
+
+
