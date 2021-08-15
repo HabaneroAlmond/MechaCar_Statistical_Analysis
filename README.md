@@ -22,6 +22,7 @@ AutoRUs' new prototype 'MechaCar' is suffering from production issues and the ma
 ![PSI](https://user-images.githubusercontent.com/82848585/129486756-43daadcf-c85d-4a89-9664-0c4213ded1e1.png)
 ![manufacturinglotPSI](https://user-images.githubusercontent.com/82848585/129486759-986afffd-33a5-4a63-900f-a8049a4e9724.png)
 
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 # T-Tests on Suspension Coils
 ![deliverable3code](https://user-images.githubusercontent.com/82848585/129486811-43c88c56-777d-40d6-b2b3-a50850739971.png)
